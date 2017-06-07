@@ -22,3 +22,5 @@
 * [18.生成器、协程和asyncio-上](./18_generators、coroutine_and_asyncio-A.pdf)
 * [18.生成器、协程和asyncio-下](./18_generators、coroutine_and_asyncio_B.pdf)
 * [19.else块、nonlocal声明及复制](./19_else、nonlocal_and_copy.pdf)
+* [20.序列的增量赋值](./20_sequences_augmented_assignment.pdf)
+* [21.排序和搜索](./21_sort_and_search.pdf)
