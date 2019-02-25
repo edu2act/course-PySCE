@@ -1,0 +1,18 @@
+# 《Python科学计算生态》课件
+
+1. [课程介绍&Python语言初识](./1_a_taste_of_python.pdf)
+2. [Python变量和数据类型](./2_python_ingredients.ipynb)
+3. [Python变量和数据类型—字符串](./3_strings.ipynb)
+4. [Python基本数据结构](./4_py_filling.ipynb)
+5. [Python代码结构](./5_code_structure.ipynb)
+6. [Python错误和异常](./6_exceptions.ipynb)
+7. [Python函数](./7_function.ipynb)
+8. [Python模块、包和程序](./8_modules_pacakges_programs.ipynb)
+9. [Python对象和类](./9_objects_and_classes.ipynb)
+10. [Python数据操作](./10_mangle_data.ipynb)
+11. [Python文件IO](./11_file_io_and_structured_text_files.ipynb)
+12. [Python系统管理](./12_system_management.ipynb)
+13. [Python正则表达式](./13_regular_expressions.ipynb)
+14. [Python排序](./14_sort.ipynb)
+15. [Python的else块和复制](./15_else-and-copy.ipynb)
+16. [NumPy基础](./16_numpy.ipynb)
